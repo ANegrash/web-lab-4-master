@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43db7eab-9c58-4a15-8e88-379f3842965a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resourcesPicture/back-err.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +57,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1k5c0EeOCAlLL3Fwwz8uuz86HPM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="oracle" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -299,7 +302,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607269873578</updated>
-      <workItem from="1607269874712" duration="13366000" />
+      <workItem from="1607269874712" duration="13689000" />
     </task>
     <task id="LOCAL-00001" summary="index.html&#10;and&#10;index.js">
       <created>1607276576742</created>
@@ -315,16 +318,25 @@
       <option name="project" value="LOCAL" />
       <updated>1607287686624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Incredible error-page">
+      <created>1607291897008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607291897008</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="index.html&#10;and&#10;index.js" />
     <MESSAGE value="main.html&#10;and&#10;main.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.html&#10;and&#10;main.js" />
+    <MESSAGE value="Incredible error-page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Incredible error-page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1918" y="178" key="#Assign_Data_Sources" timestamp="1605686208441">
@@ -360,10 +372,10 @@
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606178248853" />
     <state x="580" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607291655470" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1607287685671">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1607291896188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607287685671" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607291896188" />
     <state x="600" y="138" key="FileChooserDialogImpl" timestamp="1607233079420">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -450,10 +462,10 @@
     <state x="326" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607241594751" />
     <state x="1827" y="162" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607241517595" />
     <state x="458" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607269996281" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607287828431">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607291899308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607287828431" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607291899308" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607190077220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
