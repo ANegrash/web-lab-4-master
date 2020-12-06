@@ -11,15 +11,18 @@ function sendDatas(email, password) {
             if (state == 0) {
                 console.log("CompleteDatas")
                 document.getElementById("login-status").innerText = "Success";
+                document.getElementById("alert").setAttribute("class" , "alert alert-success alert-dismissible fade show");
                 location.href = '/Lab4/faces/main';
             } else if (state == 1) {
                 document.getElementById("email-text").classList.replace("is-valid", "is-invalid");
                 document.getElementById("password-text").classList.replace("is-valid", "is-invalid");
                 document.getElementById("login-status").innerText = "Wrong login";
+                document.getElementById("alert").setAttribute("class" , "alert alert-warning alert-dismissible fade show");
 
             } else if (state == 2) {
                 document.getElementById("password-text").classList.replace("is-valid", "is-invalid");
                 document.getElementById("login-status").innerText = "Wrong password";
+                document.getElementById("alert").setAttribute("class" , "alert alert-warning alert-dismissible fade show");
             }
         }
     });
