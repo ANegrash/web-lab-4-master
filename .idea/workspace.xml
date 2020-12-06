@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43db7eab-9c58-4a15-8e88-379f3842965a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
@@ -81,20 +80,20 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp\faces" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp" />
-      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp\scripts" />
-      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\java" />
-      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\resources" />
+      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp\faces" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="utils" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\web-lab-4-main\src\main\webapp" />
       <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp\faces" />
+      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp" />
+      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\webapp\scripts" />
+      <recent name="C:\MyProjects\Java\Web\web-lab-4\src\main\java" />
     </key>
   </component>
   <component name="RunManager" selected="JBoss Server.Lab4">
@@ -301,12 +300,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607269873578</updated>
-      <workItem from="1607269874712" duration="3446000" />
+      <workItem from="1607269874712" duration="9472000" />
     </task>
+    <task id="LOCAL-00001" summary="index.html&#10;and&#10;index.js">
+      <created>1607276576742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607276576742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="index.html&#10;and&#10;index.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html&#10;and&#10;index.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1918" y="178" key="#Assign_Data_Sources" timestamp="1605686208441">
@@ -341,6 +352,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606178248853" />
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1607276573396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607276573396" />
     <state x="600" y="138" key="FileChooserDialogImpl" timestamp="1607233079420">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -427,6 +442,10 @@
     <state x="326" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607241594751" />
     <state x="1827" y="162" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607241517595" />
     <state x="458" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607269996281" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607276577965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607276577965" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607190077220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
